@@ -2,7 +2,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MBHud'
-  s.version          = '0.1.0'
+  s.version          = '1.0.0'
   s.summary          = 'A short description of MBHud.'
   s.homepage         = 'https://github.com/yangxina/MYHud'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
